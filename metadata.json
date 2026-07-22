@@ -1,0 +1,6 @@
+{
+  "name": "Ibnesina Gynecology Care",
+  "description": "Expert Gynecology Care for Women's Health landing page.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
